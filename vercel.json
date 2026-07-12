@@ -1,12 +1,11 @@
-﻿{
+{
   "rewrites": [
-    { "source": "/api/sheets", "destination": "/api/sheets.js" },
-    { "source": "/squadra", "destination": "/index.html" },
-    { "source": "/admin", "destination": "/index.html" },
-    { "source": "/calendario", "destination": "/index.html" },
-    { "source": "/classifiche", "destination": "/index.html" },
-    { "source": "/gironi", "destination": "/index.html" },
-    { "source": "/risultati", "destination": "/index.html" },
-    { "source": "/campi", "destination": "/index.html" }
+    { "source": "/squadra", "destination": "/" },
+    { "source": "/admin", "destination": "/" },
+    { "source": "/calendario", "destination": "/" },
+    { "source": "/classifiche", "destination": "/" },
+    { "source": "/gironi", "destination": "/" },
+    { "source": "/risultati", "destination": "/" },
+    { "source": "/campi", "destination": "/" }
   ]
 }
