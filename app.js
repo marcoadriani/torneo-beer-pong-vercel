@@ -1,4 +1,4 @@
-﻿const app = document.getElementById("app");
+const app = document.getElementById("app");
 const sessionKey = "aperigre-team-session";
 let cachedState = null;
 let busy = false;

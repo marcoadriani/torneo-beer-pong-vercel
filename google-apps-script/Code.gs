@@ -1,4 +1,4 @@
-﻿const STATE_SHEET = "State";
+const STATE_SHEET = "State";
 const COMMANDS_SHEET = "Commands";
 const TEAMS_SHEET = "Teams";
 
